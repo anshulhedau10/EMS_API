@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmsApi", "EmsApi\EmsApi.csproj", "{D76D9DD0-8A70-49DE-A5A1-917CB0E14419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAddEmployeeToDB", "FunctionAddEmployeeToDB\FunctionAddEmployeeToDB.csproj", "{31007852-D154-4685-8557-676D2475E760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76D9DD0-8A70-49DE-A5A1-917CB0E14419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76D9DD0-8A70-49DE-A5A1-917CB0E14419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76D9DD0-8A70-49DE-A5A1-917CB0E14419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76D9DD0-8A70-49DE-A5A1-917CB0E14419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31007852-D154-4685-8557-676D2475E760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31007852-D154-4685-8557-676D2475E760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31007852-D154-4685-8557-676D2475E760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31007852-D154-4685-8557-676D2475E760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {475CBB9F-A3EB-4197-8B3C-668E7F7AD426}
+	EndGlobalSection
+EndGlobal
